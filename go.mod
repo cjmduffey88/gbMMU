@@ -1,4 +1,4 @@
-module gbMMU
+module github.com/cjmduffey88/gbMMU
 
 go 1.22.0
 
